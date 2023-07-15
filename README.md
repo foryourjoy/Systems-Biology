@@ -11,7 +11,7 @@
   
 | Computer codes used for this project   
   
-- Codes that your team wrote  
+- Codes that we wrote  
     
   - Colab file URL: https://drive.google.com/file/d/10FGBmjw8WMweuQTXUd07bm2Jjs3ki7x0/view?usp=sharing  
   - Google Drive URL: https://drive.google.com/drive/folders/1e-sXmLETMTFkk0pLpfz5C1mRCp4wejmc?usp=sharing  
